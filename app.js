@@ -1,4 +1,4 @@
-const apikey = "563492ad6f917000010000011e572bb3ad434e20b8f4b6cb36259942";
+const apikey = "INSERT YOU API KEY HERE";
 
 const gallery = document.querySelector(".gallery");
 const searchInput = document.querySelector(".search-input");
